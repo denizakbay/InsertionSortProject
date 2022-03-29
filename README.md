@@ -6,7 +6,7 @@ Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 
 * **Asamalar:**
 
-`metin
+```text
 
 1. [22]
 2. [22,27]
@@ -14,4 +14,5 @@ Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 4. [2, 16, 22, 27]
 5. [2, 16, 18, 22, 27]
 6. [2, 6, 16, 18, 22, 27]
-`
+
+```
