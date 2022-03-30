@@ -1,6 +1,6 @@
 # Project 1
 
-Bu repo Patika[https://app.patika.dev/paths] eğitimi kapsamında açtığım repo.
+Bu repo [Patika](https://app.patika.dev/paths) eğitimi kapsamında açtığım repo.
 
 ## [22,27,16,2,18,6] -> Insertion Sort
 
